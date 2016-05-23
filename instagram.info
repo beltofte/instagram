@@ -1,0 +1,4 @@
+name = Instagram
+description = Provide instagram feed by a give user.
+package = FFW
+core = 7.x
